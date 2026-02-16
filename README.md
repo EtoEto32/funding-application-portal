@@ -1,6 +1,8 @@
 # funding-application-portal
 向井研究室研究費申請システム  
 開発者：貝沼英亮、松山大輝、高垣優
+## 要件定義書  
+https://airy-ghost-31b.notion.site/309f0040e86480ec9f5fd3725727b684?source=copy_link
 ## プロジェクト構成
 
 ```
