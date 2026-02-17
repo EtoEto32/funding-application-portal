@@ -1,3 +1,4 @@
+```
 funding-application-portal/
 ├── docker-compose.yml          # Docker Compose設定
 ├── .env.example                # 環境変数テンプレート
@@ -44,3 +45,4 @@ funding-application-portal/
             │   └── ApproverDashboard.tsx # 承認者ダッシュボード
             └── login/          # ログイン関連
                 └── LoginPage.tsx        # ログインページ
+```
