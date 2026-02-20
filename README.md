@@ -1,5 +1,6 @@
 # Haiku-type
-
+## 要件定義書
+https://airy-ghost-31b.notion.site/Haiku-type-30cf0040e86480c197edc519a78a20c9?source=copy_link  
 ## プロジェクト構成
 
 ```
@@ -46,6 +47,8 @@ funding-application-portal/
 ### インフラ
 - Docker Compose
 - PostgreSQL 16
+
+### 認証
 
 ## 初回セットアップ手順
 
