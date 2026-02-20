@@ -37,7 +37,7 @@ export const LoginPage = () => {
       <Card sx={{ minWidth: 400 }}>
         <CardContent>
           <Typography variant="h5" component="h1" gutterBottom align="center">
-            研究費申請システム
+            Haiku-Type
           </Typography>
           <Typography variant="body2" color="text.secondary" align="center" sx={{ mb: 3 }}>
             ログイン

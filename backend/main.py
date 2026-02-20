@@ -8,8 +8,8 @@ from routers import auth
 load_dotenv()
 
 app = FastAPI(
-    title="Funding Application Portal API",
-    description="向井研究室研究費申請システム API",
+    title="Haiku-Type API",
+    description="Haiku-Type API",
     version="1.0.0"
 )
 
@@ -28,7 +28,7 @@ app.include_router(auth.router, prefix="/api")
 
 @app.get("/")
 async def root():
-    return {"message": "Funding Application Portal API"}
+    return {"message": "Haiku-Type API"}
 
 @app.get("/api/health")
 async def health_check():

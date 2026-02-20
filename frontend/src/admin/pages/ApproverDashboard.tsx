@@ -1,9 +1,6 @@
 import { Card, CardContent, Typography, Box } from '@mui/material'
-import { useTitle } from 'react-admin'
 
 export const ApproverDashboard = () => {
-  useTitle('承認者ダッシュボード')
-
   return (
     <Box sx={{ p: 3 }}>
       <Typography variant="h4" gutterBottom>
