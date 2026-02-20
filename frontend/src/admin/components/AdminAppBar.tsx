@@ -5,7 +5,7 @@ export const AdminAppBar = () => (
   <AppBar>
     <TitlePortal>
       <Typography variant="h6" id="react-admin-title">
-        研究費申請システム - 管理者
+        Haiku-Type
       </Typography>
     </TitlePortal>
   </AppBar>
