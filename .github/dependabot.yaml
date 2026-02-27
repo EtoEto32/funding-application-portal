@@ -6,7 +6,7 @@ updates:
       interval: "daily"
       timezone: "Asia/Tokyo"
       time: "00:00"
-    target-branch: "dev"
+    target-branch: "main"
     # dependabotのpull requestを実質無制限にする
     open-pull-requests-limit: 10000
 
